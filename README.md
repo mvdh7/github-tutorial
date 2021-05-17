@@ -13,7 +13,7 @@ Bits of code `x = 3 * 5`
 
 **Code example:**
 
-```
+```python
 import numpy as np
 
 # calculate x
