@@ -11,4 +11,11 @@ This is all about this repo.
 
 Bits of code `x = 3 * 5`
 
+**Code example:**
 
+```
+import numpy as np
+
+# calculate x
+x = np.mean([43, 1, 64])
+```
