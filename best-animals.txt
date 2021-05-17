@@ -2,7 +2,8 @@ These are the best animals in the world:
 
   * Rhinos
   * Hippopotami
-  * Red parrots
+  * Rockhopper penguins
+  * Green parrots
   * Gentoo penguins
   * Emperor penguins
 
