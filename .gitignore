@@ -1,3 +1,14 @@
 # Ignore netCDF file
-sst_full.nc
-my-secret-notes.txt
+# sst_full.nc
+
+# Ignore directory
+# data
+
+# Use wildcard
+*.nc
+
+# Ignore text file
+# my-secret-notes.txt
+
+# Ignore file with wildcard
+*secret*
